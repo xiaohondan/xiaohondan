@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "学习ROOT",
+      "description": "完成ROOT基础教程",
+      "completed": false,
+      "createdAt": "2023-11-01T10:00:00Z"
+    },
+    {
+      "id": 2,
+      "title": "购物",
+      "description": "购买日常用品",
+      "completed": true,
+      "createdAt": "2023-11-02T15:30:00Z"
+    }
+  ],
+  "nextId": 3
+}
