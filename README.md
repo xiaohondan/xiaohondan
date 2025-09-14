@@ -4,10 +4,11 @@
 
 当然啦，你也可以直接加我的QQ好友喵，咱不会拒绝的呢，咱是xiaohondan_neko哦
 
+这是我的网站和博客喵：xiaohondan.github.io xiaohondan.github.io/xiaohondan
+
 #猫猫的爱好
 咱是一只会写代码的猫猫，常用语言是Java和python喵
 
 咱也会玩游戏呢，不过技术有点菜的喵
 
 好啦，就这些啦，你可以在下面看看我在Github上的一些成就喵~
-https://camo.githubusercontent.com/76b8fe2a6b8ea1dd8ff6ae130b212b88c42f9781a9bc56674a0c05f5380119c9/68747470733a2f2f6170692e6c696b65706f656d732e636f6d2f636f756e7465722f6765742f4043536e656b6f
