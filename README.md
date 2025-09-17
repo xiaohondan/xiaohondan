@@ -1,4 +1,8 @@
 ### 欢迎来到我的Github主页喵！
+### 要来看看我的作品吗，你一定会喜欢哒
+- [Admin](https://github.com/xiaohondan/Admin)　在QQ中把个人号变成猫娘机器人 (=^・ｪ・^=)
+
+~其它的我做的不是很好，请见谅●﹏●~
 
 ### 探寻猫猫的踪迹
 给咱发邮件就好了喵，咱的邮箱是[xiaohondan@xiaohondan.com](mailto:xiaohondan@xiaohondan.com)，当然也可以是[xiaohondan@skymail.ink](mailto:xiaohondan@skymail.ink)，喜欢哪个就发哪个喵
@@ -16,4 +20,4 @@
 
 好啦，就这些啦喵，欢迎点个star喵~
 
-![CrystalNeko&ViewCounter](https://api.likepoems.com/counter/get/@CSneko)
+![xiaohondan](https://api.likepoems.com/counter/get/@xiaohondan
