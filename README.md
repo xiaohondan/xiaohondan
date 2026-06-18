@@ -75,7 +75,7 @@
 
 ### 合作与联系 | Connect
 
-- **个人网站**：[[前往](https://nekoaidev.top)](https://nekoaidev.top)
+- **个人网站**：[https://nekoaidev.top](https://nekoaidev.top)
 - **文档官网**：[https://nekoaidev.top]([https://docss.sxxyrry.qzz.io](https://nekoaidev.top))
 - **工作室官网**：[https://nekoaidev.top](https://nekoaidev.top)
 - **B站**：[小红蛋l
