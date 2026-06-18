@@ -54,7 +54,7 @@
 - [Neko-GitHub CLI](https://github.com/NekoAiDev/Neko-GitHub-CLI)
 > 中文交互式 GitHub CLI 工具，让 GitHub 操作像填表一样简单
 
--[Neko-Ai-Model](https://github.com/NekoAiDev/Neko-Ai-Model)
+- [Neko-Ai-Model](https://github.com/NekoAiDev/Neko-Ai-Model)
 > Neko Ai 猫娘模型 - 通过 API 调用的中文猫娘 AI 聊天界面
 
 [API调用限频器](https://github.com/NekoAiDev/astrbot_plugin_api_limiter)
@@ -68,8 +68,6 @@
 
 [QQ 功能工具箱](https://github.com/NekoAiDev/astrbot_plugin_qq_toolbox)
 > QQ 功能工具箱：娱乐、实用查询、内容生成、群管工具，20+ 指令一站式集成 | AstrBot Plugin
-
-####[![Read](https://img.shields.io/badge/Neko-个人网站-8A2BE2)](https://nekoaidev.top)
 
 
 ---
@@ -89,7 +87,4 @@
 <p align="center">
   <sub>© 2026 - NekoAi · Designed with ❤️ by xiaohondan</sub>
 </p>
-
-![xiaohondan](https://api.likepoems.com/counter/get/@xiaohondan)
-
-![xiaohondan](https://camo.githubusercontent.com/3c91840758e82f66335b92983189678422a705bf37e91407e2b8c15cd1fe296e/68747470733a2f2f632e636e656b6f2e6f72672f632f404372797374616c4e656b6f3f703d676974687562)
+[![Read](https://img.shields.io/badge/Neko-个人网站-8A2BE2)](https://nekoaidev.top)
