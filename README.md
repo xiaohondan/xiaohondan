@@ -81,10 +81,10 @@
 - **B站**：[小红蛋l
 ]([https://space.bilibili.com/1532090388](https://space.bilibili.com/3546605644941596))
 - **爱发电**：[赞助支持](https://ifdian.net/a/sxxyrry_ttxr)
+[![Read](https://img.shields.io/badge/Neko-个人网站-8A2BE2)](https://nekoaidev.top)
 
 ---
 
 <p align="center">
   <sub>© 2026 - NekoAi · Designed with ❤️ by xiaohondan</sub>
 </p>
-[![Read](https://img.shields.io/badge/Neko-个人网站-8A2BE2)](https://nekoaidev.top)
