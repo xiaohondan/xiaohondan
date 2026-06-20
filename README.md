@@ -26,8 +26,8 @@
 
 嘿，我是 **小红蛋**
 
-- **Neko 团队** 所有者 · 全栈开发者
-- 正在用 **WoskBuddy OpenClaw AstrBot**（ AI 辅助）
+  **Neko 团队** 所有者 · 全栈开发者
+  正在用 **WoskBuddy OpenClaw AstrBot**（ AI 辅助）
 
 ---
 
@@ -37,37 +37,29 @@
   <img src="https://skillicons.dev/icons?i=rust,go,python,flask,nodejs,js,vue,ts,html,css,git,linux,windows" />
 </p>
 
-- **前端**：Vue.js · TypeScript · JavaScript · 原生 Web 工具箱
-- **后端**：Python (Flask) · Node.js · Golang
-- **底层/系统**：Rust (Tokio, FFI, 动态库) · C ABI 绑定
-- **跨平台**：Android NDK · HarmonyOS · iOS (实验)
-- **开发工具**：Git · VSCode · GH  CMD命令行重度用户
+  **前端**：Vue.js · TypeScript · JavaScript · 原生 Web 工具箱
+  **后端**：Python (Flask) · Node.js · Golang
+  **底层/系统**：Rust (Tokio, FFI, 动态库) · C ABI 绑定
+  **跨平台**：Android NDK · HarmonyOS · iOS (实验)
+  **开发工具**：Git · VSCode · GH  CMD命令行重度用户
 
 ---
 
 ### 作品集 | Projects
 
-- [Admin](https://github.com/xiaohondan/Admin)　
-> 在QQ中把个人号变成猫娘机器人
-> ~我做的不是很好，请见谅●﹏●~
+- [Admin](https://github.com/xiaohondan/Admin)　*在QQ中把个人号变成猫娘机器人*
 
-- [Neko-GitHub CLI](https://github.com/NekoAiDev/Neko-GitHub-CLI)
-> 中文交互式 GitHub CLI 工具，让 GitHub 操作像填表一样简单
+- [Neko-GitHub CLI](https://github.com/NekoAiDev/Neko-GitHub-CLI)  *中文交互式 GitHub CLI 工具，让 GitHub 操作像填表一样简单*
 
-- [Neko-Ai-Model](https://github.com/NekoAiDev/Neko-Ai-Model)
-> Neko Ai 猫娘模型 - 通过 API 调用的中文猫娘 AI 聊天界面
+- [Neko-Ai-Model](https://github.com/NekoAiDev/Neko-Ai-Model)  *Neko Ai 猫娘模型 - 通过 API 调用的中文猫娘 AI 聊天界面*
 
-[API调用限频器](https://github.com/NekoAiDev/astrbot_plugin_api_limiter)
-> API调用限频器，包含调用间隔限制、次数限制+冷却重开、安静时段三大功能 | AstrBot Plugin
+[API调用限频器](https://github.com/NekoAiDev/astrbot_plugin_api_limiter)  *API调用限频器，包含调用间隔限制、次数限制+冷却重开、安静时段三大功能 | AstrBot Plugin*
 
-[Code Review Bot](https://github.com/NekoAiDev/code-review-bot)
-> 基于 GitHub Actions 的自动化代码审核机器人，检测安全问题、合规性和潜在 Bug
+[Code Review Bot](https://github.com/NekoAiDev/code-review-bot)  *基于 GitHub Actions 的自动化代码审核机器人，检测安全问题、合规性和潜在 Bug*
 
-[Neko CLI](https://github.com/NekoAiDev/neko-cli)
-> 通用包管理命令行工具，支持 PyPI、npm、自定义仓库三种包源。
+[Neko CLI](https://github.com/NekoAiDev/neko-cli)  *通用包管理命令行工具，支持 PyPI、npm、自定义仓库三种包源。*
 
-[QQ 功能工具箱](https://github.com/NekoAiDev/astrbot_plugin_qq_toolbox)
-> QQ 功能工具箱：娱乐、实用查询、内容生成、群管工具，20+ 指令一站式集成 | AstrBot Plugin
+[QQ 功能工具箱](https://github.com/NekoAiDev/astrbot_plugin_qq_toolbox)  *QQ 功能工具箱：娱乐、实用查询、内容生成、群管工具，20+ 指令一站式集成 | AstrBot Plugin*
 
 
 ---
@@ -75,12 +67,12 @@
 
 ### 合作与联系 | Connect
 
-- **个人网站**：[https://nekoaidev.top](https://nekoaidev.top)
-- **文档官网**：[https://nekoaidev.top]([https://docss.sxxyrry.qzz.io](https://nekoaidev.top))
-- **工作室官网**：[https://nekoaidev.top](https://nekoaidev.top)
-- **B站**：[小红蛋l
+  **个人网站**：[https://nekoaidev.top](https://nekoaidev.top)
+  **文档官网**：[https://nekoaidev.top]([https://docss.sxxyrry.qzz.io](https://nekoaidev.top))
+  **工作室官网**：[https://nekoaidev.top](https://nekoaidev.top)
+  **B站**：[小红蛋l
 ]([https://space.bilibili.com/1532090388](https://space.bilibili.com/3546605644941596))
-- **爱发电**：[赞助支持](https://ifdian.net/a/sxxyrry_ttxr)
+  **爱发电**：[赞助支持](https://ifdian.net/a/sxxyrry_ttxr)
 
 [![Read](https://img.shields.io/badge/Neko-个人网站-8A2BE2)](https://nekoaidev.top)
 
