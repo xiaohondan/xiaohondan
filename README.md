@@ -70,7 +70,7 @@
   **个人网站**：[https://nekoaidev.top](https://nekoaidev.top)
   **文档官网**：[https://nekoaidev.top]([https://docss.sxxyrry.qzz.io](https://nekoaidev.top))
   **工作室官网**：[https://nekoaidev.top](https://nekoaidev.top)
-  **B站**：[小红蛋l
+  **B站**：[小红蛋l](https://space.bilibili.com/3546605644941596)
 ]([https://space.bilibili.com/1532090388](https://space.bilibili.com/3546605644941596))
   **爱发电**：[赞助支持](https://ifdian.net/a/sxxyrry_ttxr)
 
