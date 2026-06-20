@@ -26,7 +26,8 @@
 
 ---
 
-## 👤 关于我
+## 👤 关于我   
+
 
 嘿，我是 **小红蛋**
 
@@ -51,10 +52,12 @@
 ---
 
 ## 📦 作品集
+#### 要来看看我的作品吗，你一定会喜欢哒ヽ（ ＾ω＾ ゞ ）
+
 
 | 项目 | 描述 |
 |------|------|
-| [Admin](https://github.com/xiaohondan/Admin) | 在 QQ 中把个人号变成猫娘机器人 |
+| [Admin](https://github.com/xiaohondan/Admin) | 在 QQ 中把个人号变成猫娘机器人   ~其它的做的不是很好，请见谅●﹏●~ |
 | [Neko-GitHub CLI](https://github.com/NekoAiDev/Neko-GitHub-CLI) | 中文交互式 GitHub CLI 工具，让 GitHub 操作像填表一样简单 |
 | [Neko-Ai-Model](https://github.com/NekoAiDev/Neko-Ai-Model) | Neko Ai 猫娘模型 - 通过 API 调用的中文猫娘 AI 聊天界面 |
 | [API 调用限频器](https://github.com/NekoAiDev/astrbot_plugin_api_limiter) | API 调用限频器，含调用间隔限制、次数限制+冷却重开、安静时段三大功能 \| AstrBot Plugin |
@@ -65,13 +68,20 @@
 ---
 
 ## 🤝 合作与联系
+#### 探寻xiaohondan猫猫的踪迹
 
 | 渠道 | 链接 |
 |------|------|
-| **个人网站** | [nekoaidev.top](https://nekoaidev.top) |
+| **个人网站** | [个人网站](https://nekoaidev.top) |
 | **B 站** | [小红蛋l](https://space.bilibili.com/3546605644941596) |
 | **爱发电** | [赞助支持](https://ifdian.net/a/sxxyrry_ttxr) |
 | **QQ 交流群** | [显石的编程交流群](https://qm.qq.com/q/rFZ3Sxlqa4) |
+| **QQ** | [3815099625](https://qm.qq.com/q/2X8jOvRGtG)
+
+加我QQ就啦喵~
+QQ：[3815099625](https://qm.qq.com/q/2X8jOvRGtG)
+
+当然啦，你也可以来看看我的GitHub团队喵，咱不会拒绝的呢，咱是`xiaohondan`哦 [传送门](https://github.com/NekoAiDev)
 
 ---
 
