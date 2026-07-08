@@ -31,7 +31,7 @@
 
 嘿，我是 **小红蛋**
 
-**Neko 团队** 所有者 · 全栈开发者，正在用 **WorkBuddy / OpenClaw / AstrBot**（AI 辅助）构建有趣的东西。
+**Neko 团队** 所有者 · 全栈开发者，正在用 **WorkBuddy / OpenClaw / AstrBot / CodeBuddy**（AI 辅助）构建有趣的东西。
 
 ---
 
