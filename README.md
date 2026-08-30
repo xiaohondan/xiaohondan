@@ -19,6 +19,8 @@
 [![Personal Website](https://img.shields.io/badge/Neko-Personal_Website-8A2BE2?style=flat-square)](https://nekoaidev.top)
 [![Team Website](https://img.shields.io/badge/Neko-Team_Website-FF8C00?style=flat-square)](https://studio.nekoaidev.top)
 [![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?logo=bilibili&logoColor=white&style=flat-square)](https://space.bilibili.com/3546605644941596)
+[![CSDN](https://img.shields.io/badge/CSDN-xiaohondan-red?style=flat-square&logo=csdn&logoColor=white)](https://blog.csdn.net/xiaohondan)
+[![ifadian](https://img.shields.io/badge/ifadian-Support-FF69B4?style=flat-square)](https://ifdian.net/a/nekoai)
 [![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white)](https://www.youtube.com/@xiaohondan)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?&logo=twitch&logoColor=white)](https://twitch.tv/xiaohondan)
 ![Twitch Status](https://img.shields.io/twitch/status/xiaohondan?&logo=twitch&logoColor=white)
