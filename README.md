@@ -15,7 +15,7 @@
 
 [![Plugins](https://img.shields.io/badge/Plugins-2+-orange?style=flat-square)](https://github.com/orgs/NekoAiDev/repositories)
 [![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)](https://github.com/NekoAiDev/.github/tree/main/profile)
-[![Chat](https://img.shields.io/badge/Chat-显石的编程交流群-red?style=flat-square&logo=tencentqq&logoColor=white)](https://qm.qq.com/q/rFZ3Sxlqa4)
+[![Chat](https://img.shields.io/badge/Chat-NekoAi交流群red?style=flat-square&logo=tencentqq&logoColor=white)](https://qm.qq.com/q/EDMapGA1sk)
 [![网站](https://img.shields.io/badge/Neko-个人网站-8A2BE2?style=flat-square)](https://nekoaidev.top)
 
 [![Ask DeepWiki - neko-cli](https://deepwiki.com/badge.svg)](https://deepwiki.com/NekoAiDev/neko-cli)
