@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/200469797?v=4" alt="小红蛋" width="120" height="120" style="border-radius: 50%;"/>
+<img src="https://avatars.githubusercontent.com/u/200469797?v=4" alt="xiaohondan" width="120" height="120" style="border-radius: 50%;"/>
 
-# 小红蛋
+# xiaohondan
 
-**AstrBot 插件、技术开发组织所有者 | AstrBot plugin and tech development organization owner**
+**AstrBot Plugin & Tech Development Organization Owner**
 
 [![GitHub](https://img.shields.io/badge/GitHub-NekoAiDev-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/NekoAiDev)
-[![Author](https://img.shields.io/badge/Author-小红蛋-orange?style=flat-square)](https://github.com/xiaohondan)
+[![Author](https://img.shields.io/badge/Author-xiaohondan-orange?style=flat-square)](https://github.com/xiaohondan)
 [![AstrBot](https://img.shields.io/badge/AstrBot-Plugin-blue?style=flat-square)](https://github.com/AstrBotDevs/AstrBot)
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](https://opensource.org/licenses/MIT)
@@ -16,8 +16,8 @@
 [![Plugins](https://img.shields.io/badge/Plugins-2+-orange?style=flat-square)](https://github.com/orgs/NekoAiDev/repositories)
 [![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)](https://github.com/NekoAiDev/.github/tree/main/profile)
 [![Chat](https://img.shields.io/badge/Chat-NekoAi-red?style=flat-square&logo=tencentqq&logoColor=white)](https://qm.qq.com/q/EDMapGA1sk)
-[![个人网站](https://img.shields.io/badge/Neko-个人网站-8A2BE2?style=flat-square)](https://nekoaidev.top)
-[![团队网站](https://img.shields.io/badge/Neko-团队网站-FF8C00?style=flat-square)](https://studio.nekoaidev.top)
+[![Personal Website](https://img.shields.io/badge/Neko-Personal_Website-8A2BE2?style=flat-square)](https://nekoaidev.top)
+[![Team Website](https://img.shields.io/badge/Neko-Team_Website-FF8C00?style=flat-square)](https://studio.nekoaidev.top)
 [![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?logo=bilibili&logoColor=white&style=flat-square)](https://space.bilibili.com/3546605644941596)
 [![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white)](https://www.youtube.com/@xiaohondan)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?&logo=twitch&logoColor=white)](https://twitch.tv/xiaohondan)
@@ -26,7 +26,7 @@
 [![Ask DeepWiki - ](https://deepwiki.com/badge.svg)](https://deepwiki.com/NekoAiDev/neko-cli)
 [![Ask DeepWiki - ](https://deepwiki.com/badge.svg)](https://deepwiki.com/NekoAiDev/astrbot_plugin_qq_toolbox)
 [![Ask DeepWiki - ](https://deepwiki.com/badge.svg)](https://deepwiki.com/NekoAiDev/astrbot_plugin_api_limiter)
-[![Ask DeepWiki - ](https://deepwiki.com/badge.svg)]([https://deepwiki.com/NekoAiDev/astrbot-plugin-devkit])
+[![Ask DeepWiki - ](https://deepwiki.com/badge.svg)](https://deepwiki.com/NekoAiDev/astrbot-plugin-devkit)
 [![Ask DeepWiki - ](https://deepwiki.com/badge.svg)](https://deepwiki.com/NekoAiDev/Git-Push)
 [![Ask DeepWiki - ](https://deepwiki.com/badge.svg)](https://deepwiki.com/NekoAiDev/astrbot_plugin_qq_zone)
 [![Ask DeepWiki - ](https://deepwiki.com/badge.svg)](https://deepwiki.com/NekoAiDev/Dangerous-Shell-Interceptor)
@@ -37,75 +37,73 @@
 [![Ask DeepWiki - ](https://deepwiki.com/badge.svg)](https://deepwiki.com/NekoAiDev/NekoQQ)
 [![Ask DeepWiki - ](https://deepwiki.com/badge.svg)](https://deepwiki.com/NekoAiDev/neko-github-app)
 
-[![中文](https://img.shields.io/badge/语言-中文-blue?style=flat-square)](./README.zh.md)
+[![Chinese](https://img.shields.io/badge/Language-Chinese-blue?style=flat-square)](./README.zh.md)
 
 </div>
 
 ---
 
-## 👤 关于我   
+## 👤 About Me
 
+Hey, I'm **xiaohondan**
 
-嘿，我是 **小红蛋**
-
-**Neko 团队** 所有者 · 全栈开发者，正在用 **WorkBuddy / CodeBuddy / OpenClaw / Cherry Studio / CodeBuddy / Codex / DeepSeek / ChatGPT** *（AI 辅助）* 构建有趣的东西。
+**Neko Team** Owner · Full-stack Developer, building cool stuff with **WorkBuddy / CodeBuddy / OpenClaw / Cherry Studio / CodeBuddy / Codex / DeepSeek / ChatGPT** *(AI-assisted)*.
 
 ---
 
-## 🛠 技术栈
+## 🛠 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=rust,go,python,flask,nodejs,js,vue,ts,html,css,git,linux,windows" />
 </p>
 
-| 方向 | 技术 |
-|------|------|
-| **前端** | Vue.js · TypeScript · JavaScript · 原生 Web 工具箱 |
-| **后端** | Python (Flask) · Node.js · Golang |
-| **底层/系统** | Rust (Tokio, FFI, 动态库) · C ABI 绑定 |
-| **跨平台** | Android NDK · HarmonyOS · iOS (实验) |
-| **开发工具** | Git · VSCode · GH · CMD 命令行重度用户 |
+| Area | Technologies |
+|------|--------------|
+| **Frontend** | Vue.js · TypeScript · JavaScript · Vanilla Web Tooling |
+| **Backend** | Python (Flask) · Node.js · Golang |
+| **Systems/Low-level** | Rust (Tokio, FFI, Dynamic Libraries) · C ABI Bindings |
+| **Cross-platform** | Android NDK · HarmonyOS · iOS (experimental) |
+| **Dev Tools** | Git · VSCode · GH · Heavy CLI User |
 
 ---
 
-## 📦 作品集
-#### 要来看看我的作品吗，你一定会喜欢哒ヽ（ ＾ω＾ ゞ ）
+## 📦 Portfolio
+#### Wanna check out my work? You'll love it! ヽ（ ＾ω＾ ゞ ）
 
+| Project |描述|
+|---------|-------------|
+| [Admin](https://github.com/xiaohondan/Admin) | Turning a personal QQ account into a neko girl bot — other projects are still WIP, please bear with me ●﹏● |
+| [Neko-GitHub CLI](https://github.com/NekoAiDev/Neko-GitHub-CLI) | Chinese-interactive GitHub CLI tool that makes GitHub ops as easy as filling out a form |
+| [Neko-Ai-Model](https://github.com/NekoAiDev/Neko-Ai-Model) | Neko Ai Model — a Chinese neko girl AI chat interface powered by API calls |
+| [API Rate Limiter](https://github.com/NekoAiDev/astrbot_plugin_api_limiter) | API rate limiter with call intervals, request limits + cooldown reset, and quiet hours — AstrBot Plugin |
+| [Code Review Bot](https://github.com/NekoAiDev/code-review-bot) | Automated code review bot powered by GitHub Actions — detects security, compliance, and potential bugs |
+| [Neko CLI](https://github.com/NekoAiDev/neko-cli) | Universal package management CLI tool supporting PyPI, npm, and custom repos |
+| [QQ Toolbox](https://github.com/NekoAiDev/astrbot_plugin_qq_toolbox) | QQ toolbox: entertainment, utilities, content generation, group management — 20+ commands in one plugin — AstrBot Plugin |
 
-| 项目 | 描述 |
-|------|------|
-| [Admin](https://github.com/xiaohondan/Admin) | 在 QQ 中把个人号变成猫娘机器人   ~其它的做的不是很好，请见谅●﹏●~ |
-| [Neko-GitHub CLI](https://github.com/NekoAiDev/Neko-GitHub-CLI) | 中文交互式 GitHub CLI 工具，让 GitHub 操作像填表一样简单 |
-| [Neko-Ai-Model](https://github.com/NekoAiDev/Neko-Ai-Model) | Neko Ai 猫娘模型 - 通过 API 调用的中文猫娘 AI 聊天界面 |
-| [API 调用限频器](https://github.com/NekoAiDev/astrbot_plugin_api_limiter) | API 调用限频器，含调用间隔限制、次数限制+冷却重开、安静时段三大功能 \| AstrBot Plugin |
-| [Code Review Bot](https://github.com/NekoAiDev/code-review-bot) | 基于 GitHub Actions 的自动化代码审核机器人，检测安全问题、合规性和潜在 Bug |
-| [Neko CLI](https://github.com/NekoAiDev/neko-cli) | 通用包管理命令行工具，支持 PyPI、npm、自定义仓库三种包源 |
-| [QQ 功能工具箱](https://github.com/NekoAiDev/astrbot_plugin_qq_toolbox) | QQ 功能工具箱：娱乐、实用查询、内容生成、群管工具，20+ 指令一站式集成 \| AstrBot Plugin |
+*More projects:*
 
-*更多项目：*
-
-[个人项目](https://github.com/xiaohondan?tab=repositories)  [团队项目](https://github.com/orgs/NekoAiDev/repositories)
+[Personal Projects](https://github.com/xiaohondan?tab=repositories)  [Team Projects](https://github.com/orgs/NekoAiDev/repositories)
 
 ---
 
-## 🤝 合作与联系
-#### 探寻xiaohondan猫猫的踪迹
+## 🤝 Collaborate & Connect
+#### Where to find xiaohondan the neko
 
-| 渠道 | 链接 |
-|------|------|
-| **个人网站** | [个人网站](https://nekoaidev.top) |
-| **团队网站** |[团队网站](https://studio.nekoaidev.top) |
-| **B 站** | [小红蛋l](https://space.bilibili.com/3546605644941596) |
-| **爱发电** | [赞助支持](https://ifdian.net/a/sxxyrry_ttxr) |
-| **QQ 交流群** | [Neko Ai](https://qm.qq.com/q/FfYysjXDGy) |
+| Platform | Link |
+|----------|------|
+| **Personal Website** | [nekoaidev.top](https://nekoaidev.top) |
+| **Team Website** | [studio.nekoaidev.top](https://studio.nekoaidev.top) |
+| **Bilibili** | [xiaohondan](https://space.bilibili.com/3546605644941596) |
+| **Aifadian (Sponsor)** | [Support](https://ifdian.net/a/sxxyrry_ttxr) |
+| **QQ Group** | [Neko Ai](https://qm.qq.com/q/FfYysjXDGy) |
 | **QQ** | [3815099625](https://qm.qq.com/q/2X8jOvRGtG) |
 | **Twitch** | [xiaohondan](https://twitch.tv/xiaohondan) |
 | **YouTube** | [xiaohondan](https://www.youtube.com/@xiaohondan) |
-| **CSDN** | [小红蛋](https://blog.csdn.net/xiaohondan) |
+| **CSDN** | [xiaohondan](https://blog.csdn.net/xiaohondan) |
 
-这些都是我的联系方式啦，如果你们有问题，可以通过这些联系我啦喵~
+These are all my channels — feel free to reach out if you have questions, nya~
 
-当然啦，你也可以来看看我的GitHub团队喵，咱不会拒绝的呢，咱是`xiaohondan`哦 [传送门](https://github.com/NekoAiDev)
+Oh, and you can also check out my GitHub team — we don't bite! It's `xiaohondan` over here ~ [Portal](https://github.com/NekoAiDev)
 
 ---
 
