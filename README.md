@@ -15,12 +15,27 @@
 
 [![Plugins](https://img.shields.io/badge/Plugins-2+-orange?style=flat-square)](https://github.com/orgs/NekoAiDev/repositories)
 [![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)](https://github.com/NekoAiDev/.github/tree/main/profile)
-[![Chat](https://img.shields.io/badge/Chat-NekoAi交流群red?style=flat-square&logo=tencentqq&logoColor=white)](https://qm.qq.com/q/EDMapGA1sk)
-[![网站](https://img.shields.io/badge/Neko-个人网站-8A2BE2?style=flat-square)](https://nekoaidev.top)
+[![Chat](https://img.shields.io/badge/Chat-NekoAi-red?style=flat-square&logo=tencentqq&logoColor=white)](https://qm.qq.com/q/EDMapGA1sk)
+[![个人网站](https://img.shields.io/badge/Neko-个人网站-8A2BE2?style=flat-square)](https://nekoaidev.top)
+[![团队网站](https://img.shields.io/badge/Neko-团队网站-FF8C00?style=flat-square)](https://studio.nekoaidev.top)
+[![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?logo=bilibili&logoColor=white&style=flat-square)](https://space.bilibili.com/3546605644941596)
+[![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white)](https://www.youtube.com/@xiaohondan)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?&logo=twitch&logoColor=white)](https://twitch.tv/xiaohondan)
+![Twitch Status](https://img.shields.io/twitch/status/xiaohondan?&logo=twitch&logoColor=white)
 
-[![Ask DeepWiki - neko-cli](https://deepwiki.com/badge.svg)](https://deepwiki.com/NekoAiDev/neko-cli)
-[![Ask DeepWiki - qq_toolbox](https://deepwiki.com/badge.svg)](https://deepwiki.com/NekoAiDev/astrbot_plugin_qq_toolbox)
-[![Ask DeepWiki - api_limiter](https://deepwiki.com/badge.svg)](https://deepwiki.com/NekoAiDev/astrbot_plugin_api_limiter)
+[![Ask DeepWiki - ](https://deepwiki.com/badge.svg)](https://deepwiki.com/NekoAiDev/neko-cli)
+[![Ask DeepWiki - ](https://deepwiki.com/badge.svg)](https://deepwiki.com/NekoAiDev/astrbot_plugin_qq_toolbox)
+[![Ask DeepWiki - ](https://deepwiki.com/badge.svg)](https://deepwiki.com/NekoAiDev/astrbot_plugin_api_limiter)
+[![Ask DeepWiki - ](https://deepwiki.com/badge.svg)]([https://deepwiki.com/NekoAiDev/astrbot-plugin-devkit])
+[![Ask DeepWiki - ](https://deepwiki.com/badge.svg)](https://deepwiki.com/NekoAiDev/Git-Push)
+[![Ask DeepWiki - ](https://deepwiki.com/badge.svg)](https://deepwiki.com/NekoAiDev/astrbot_plugin_qq_zone)
+[![Ask DeepWiki - ](https://deepwiki.com/badge.svg)](https://deepwiki.com/NekoAiDev/Dangerous-Shell-Interceptor)
+[![Ask DeepWiki - ](https://deepwiki.com/badge.svg)](https://deepwiki.com/NekoAiDev/neko-galler)
+[![Ask DeepWiki - ](https://deepwiki.com/badge.svg)](https://deepwiki.com/NekoAiDev/astrbot_plugin_manager)
+[![Ask DeepWiki - ](https://deepwiki.com/badge.svg)](https://deepwiki.com/NekoAiDev/Neko-Ai-Model)
+[![Ask DeepWiki - ](https://deepwiki.com/badge.svg)](https://deepwiki.com/NekoAiDev/code-review-bot)
+[![Ask DeepWiki - ](https://deepwiki.com/badge.svg)](https://deepwiki.com/NekoAiDev/NekoQQ)
+[![Ask DeepWiki - ](https://deepwiki.com/badge.svg)](https://deepwiki.com/NekoAiDev/neko-github-app)
 
 </div>
 
@@ -31,7 +46,7 @@
 
 嘿，我是 **小红蛋**
 
-**Neko 团队** 所有者 · 全栈开发者，正在用 **WorkBuddy / OpenClaw / AstrBot / CodeBuddy**（AI 辅助）构建有趣的东西。
+**Neko 团队** 所有者 · 全栈开发者，正在用 **WorkBuddy / CodeBuddy / OpenClaw / Cherry Studio / CodeBuddy / Codex / DeepSeek / ChatGPT** *（AI 辅助）* 构建有趣的东西。
 
 ---
 
@@ -65,6 +80,10 @@
 | [Neko CLI](https://github.com/NekoAiDev/neko-cli) | 通用包管理命令行工具，支持 PyPI、npm、自定义仓库三种包源 |
 | [QQ 功能工具箱](https://github.com/NekoAiDev/astrbot_plugin_qq_toolbox) | QQ 功能工具箱：娱乐、实用查询、内容生成、群管工具，20+ 指令一站式集成 \| AstrBot Plugin |
 
+*更多项目：*
+
+[个人项目](https://github.com/xiaohondan?tab=repositories)  [团队项目](https://github.com/orgs/NekoAiDev/repositories)
+
 ---
 
 ## 🤝 合作与联系
@@ -73,13 +92,16 @@
 | 渠道 | 链接 |
 |------|------|
 | **个人网站** | [个人网站](https://nekoaidev.top) |
+| **团队网站** |[团队网站](https://studio.nekoaidev.top) |
 | **B 站** | [小红蛋l](https://space.bilibili.com/3546605644941596) |
 | **爱发电** | [赞助支持](https://ifdian.net/a/sxxyrry_ttxr) |
-| **QQ 交流群** | [显石的编程交流群](https://qm.qq.com/q/rFZ3Sxlqa4) |
-| **QQ** | [3815099625](https://qm.qq.com/q/2X8jOvRGtG)
+| **QQ 交流群** | [Neko Ai](https://qm.qq.com/q/FfYysjXDGy) |
+| **QQ** | [3815099625](https://qm.qq.com/q/2X8jOvRGtG) |
+| **Twitch** | [xiaohondan](https://twitch.tv/xiaohondan) |
+| **YouTube** | [xiaohondan](https://www.youtube.com/@xiaohondan) |
+| **CSDN** | [小红蛋](https://blog.csdn.net/xiaohondan) |
 
-加我QQ就啦喵~
-QQ：[3815099625](https://qm.qq.com/q/2X8jOvRGtG)
+这些都是我的联系方式啦，如果你们有问题，可以通过这些联系我啦喵~
 
 当然啦，你也可以来看看我的GitHub团队喵，咱不会拒绝的呢，咱是`xiaohondan`哦 [传送门](https://github.com/NekoAiDev)
 
