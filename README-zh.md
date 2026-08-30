@@ -18,7 +18,7 @@
 [![Chat](https://img.shields.io/badge/Chat-NekoAi-red?style=flat-square&logo=tencentqq&logoColor=white)](https://qm.qq.com/q/EDMapGA1sk)
 [![个人网站](https://img.shields.io/badge/Neko-个人网站-8A2BE2?style=flat-square)](https://nekoaidev.top)
 [![团队网站](https://img.shields.io/badge/Neko-团队网站-FF8C00?style=flat-square)](https://studio.nekoaidev.top)
-[![APP网站](https://img.shields.io/badge/Neko-APP网站-FF8red?style=flat-square)](https://app.nekoaidev.top)
+[![APP网站](https://img.shields.io/badge/Neko-APP网站-red?style=flat-square)](https://app.nekoaidev.top)
 [![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?logo=bilibili&logoColor=white&style=flat-square)](https://space.bilibili.com/3546605644941596)
 [![CSDN](https://img.shields.io/badge/CSDN-xiaohondan-red?style=flat-square&logo=csdn&logoColor=white)](https://blog.csdn.net/xiaohondan)
 [![爱发电](https://img.shields.io/badge/爱发电-Support-FF69B4?style=flat-square)](https://ifdian.net/a/sxxyrry_ttxr)
