@@ -40,7 +40,7 @@
 [![Ask DeepWiki - ](https://deepwiki.com/badge.svg)](https://deepwiki.com/NekoAiDev/NekoQQ)
 [![Ask DeepWiki - ](https://deepwiki.com/badge.svg)](https://deepwiki.com/NekoAiDev/neko-github-app)
 
-[![英文](https://img.shields.io/badge/语言-英文-blue?style=flat-square)](./README-zh.md)
+[![英文](https://img.shields.io/badge/语言-英文-blue?style=flat-square)](./README.md)
 
 </div>
 
