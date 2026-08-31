@@ -41,7 +41,7 @@
 [![Ask DeepWiki - ](https://deepwiki.com/badge.svg)](https://deepwiki.com/NekoAiDev/NekoQQ)
 [![Ask DeepWiki - ](https://deepwiki.com/badge.svg)](https://deepwiki.com/NekoAiDev/neko-github-app)
 
-![:name](https://count.getloli.com/@:xiaohondan)
+![:xiaohondan](https://count.getloli.com/@:xiaohondan)
 
 [![Chinese](https://img.shields.io/badge/语言-中文-blue?style=flat-square)](./README-zh.md)
 
