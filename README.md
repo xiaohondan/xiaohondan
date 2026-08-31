@@ -120,7 +120,7 @@ Hey, I'm **xiaohondan**
 |----------|------|
 | **Personal Website** | [nekoaidev.top](https://nekoaidev.top) |
 | **Team Website** | [studio.nekoaidev.top](https://studio.nekoaidev.top) |
-| **Bilibili** | [xiaohondan](https://space.bilibili.com/3546605644941596) |
+| **Bilibili** | [小红蛋](https://space.bilibili.com/3546605644941596) |
 | **Aifadian (Sponsor)** | [Support](https://ifdian.net/a/sxxyrry_ttxr) |
 | **QQ Group** | [Neko Ai](https://qm.qq.com/q/FfYysjXDGy) |
 | **QQ** | [3815099625](https://qm.qq.com/q/2X8jOvRGtG) |
