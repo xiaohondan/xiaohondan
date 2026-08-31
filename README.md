@@ -53,7 +53,7 @@
 
 Hey, I'm **xiaohondan**
 
-**Neko Team** Owner · Full-stack Developer, building cool stuff with **WorkBuddy / CodeBuddy / OpenClaw / Cherry Studio / CodeBuddy / Codex / DeepSeek / ChatGPT** *(AI-assisted)*.
+**Neko Team** Owner · Full-stack Developer, building cool stuff with **WorkBuddy / CodeBuddy / OpenClaw / Cherry Studio / CodeBuddy / Codex / DeepSeek / ChatGPT / QClaw / GitHub Copilot** *(AI-assisted)*.
 
 ---
 
@@ -127,6 +127,18 @@ Hey, I'm **xiaohondan**
 | **Twitch** | [xiaohondan](https://twitch.tv/xiaohondan) |
 | **YouTube** | [xiaohondan](https://www.youtube.com/@xiaohondan) |
 | **CSDN** | [xiaohondan](https://blog.csdn.net/xiaohondan) |
+
+<div align="center">
+  <a href="https://space.bilibili.com/3546605644941596">
+    <img src="https://img.shields.io/badge/-Bilibili%20Subscribe-lightgray?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili Subscribe" />
+  </a>
+  <a href="https://www.youtube.com/@xiaohondan">
+    <img src="https://img.shields.io/badge/-YouTube%20Subscribe-lightgray?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Subscribe" />
+  </a>
+  <a href="https://twitch.tv/xiaohondan">
+    <img src="https://img.shields.io/badge/-Twitch%20Subscribe-lightgray?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch Subscribe" />
+  </a>
+</div>
 
 These are all my channels — feel free to reach out if you have questions, nya~
 
