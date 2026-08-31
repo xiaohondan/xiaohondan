@@ -20,6 +20,7 @@
 [![Team Website](https://img.shields.io/badge/Neko-Team_Website-FF8C00?style=flat-square)](https://studio.nekoaidev.top)
 [![APP Website](https://img.shields.io/badge/Neko-APP_Website-red?style=flat-square)](https://app.nekoaidev.top)
 [![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?logo=bilibili&logoColor=white&style=flat-square)](https://space.bilibili.com/3546605644941596)
+
 [![CSDN](https://img.shields.io/badge/CSDN-xiaohondan-red?style=flat-square&logo=csdn&logoColor=white)](https://blog.csdn.net/xiaohondan)
 [![ifadian](https://img.shields.io/badge/ifadian-Support-FF69B4?style=flat-square)](https://ifdian.net/a/nekoai)
 [![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white)](https://www.youtube.com/@xiaohondan)
@@ -40,7 +41,9 @@
 [![Ask DeepWiki - ](https://deepwiki.com/badge.svg)](https://deepwiki.com/NekoAiDev/NekoQQ)
 [![Ask DeepWiki - ](https://deepwiki.com/badge.svg)](https://deepwiki.com/NekoAiDev/neko-github-app)
 
-[![Chinese](https://img.shields.io/badge/Language-Chinese-blue?style=flat-square)](./README-zh.md)
+![:name](https://count.getloli.com/@:xiaohondan)
+
+[![Chinese](https://img.shields.io/badge/语言-中文-blue?style=flat-square)](./README-zh.md)
 
 </div>
 
@@ -89,6 +92,27 @@ Hey, I'm **xiaohondan**
 
 ---
 
+## 📊 All Stats
+
+### GitHub Stats
+
+<a href="https://github.com/xiaohondan">
+  <img width="50%" src="https://github-readme-stats.shion.dev/api?username=xiaohondan&show_icons=true&icon_color=E91E63&title_color=FB7299&text_color=ADBAC7&border_radius=15&theme=transparent&border_color=FFC0CB" alt="GitHub Stats" />
+</a>
+
+### Bilibili Stats
+
+<div align="left" style="background-color: black; padding: 20px; border: 2px solid white; border-radius: 10px; display: inline-block;">
+  <a href="https://space.bilibili.com/3546605644941596" target="_blank">
+    <img
+      src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=BiliBili&query=$.data.follower&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Frelation%2Fstat%3Fvmid%3D3546605644941596&logo=bilibili&logoColor=white&labelColor=282C34&color=00BFFF"
+      alt="BiliBili 粉丝数"
+    />
+  </a>
+</div>
+
+---
+
 ## 🤝 Collaborate & Connect
 #### Where to find xiaohondan the neko
 
@@ -109,6 +133,11 @@ These are all my channels — feel free to reach out if you have questions, nya~
 Oh, and you can also check out my GitHub team — we don't bite! It's `xiaohondan` over here ~ [Portal](https://github.com/NekoAiDev)
 
 ---
+
+<p align="center">
+  <img src="https://count.getloli.com/@:xiaohondan" alt=":xiaohondan" />
+</p>
+
 
 <div align="center">
   <sub>© 2026 - NekoAi · Designed with ❤️ by xiaohondan</sub>
