@@ -91,6 +91,28 @@
 
 ---
 
+## 📊 全部状态
+
+### GitHub 状态
+
+<a href="https://github.com/xiaohondan">
+  <img width="50%" src="https://github-readme-stats.shion.dev/api?username=xiaohondan&show_icons=true&icon_color=E91E63&title_color=FB7299&text_color=ADBAC7&border_radius=15&theme=transparent&border_color=FFC0CB" alt="GitHub Stats" />
+</a>
+
+### Bilibili 状态
+
+<div align="left" style="background-color: black; padding: 20px; border: 2px solid white; border-radius: 10px; display: inline-block;">
+  <a href="https://space.bilibili.com/3546605644941596" target="_blank">
+    <img
+      src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=BiliBili&query=$.data.follower&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Frelation%2Fstat%3Fvmid%3D3546605644941596&logo=bilibili&logoColor=white&labelColor=282C34&color=00BFFF"
+      alt="BiliBili 粉丝数"
+    />
+  </a>
+</div>
+
+---
+
+
 ## 🤝 合作与联系
 #### 探寻xiaohondan猫猫的踪迹
 
