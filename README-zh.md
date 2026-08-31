@@ -40,7 +40,9 @@
 [![Ask DeepWiki - ](https://deepwiki.com/badge.svg)](https://deepwiki.com/NekoAiDev/NekoQQ)
 [![Ask DeepWiki - ](https://deepwiki.com/badge.svg)](https://deepwiki.com/NekoAiDev/neko-github-app)
 
-[![英文](https://img.shields.io/badge/语言-英文-blue?style=flat-square)](./README.md)
+![:xiaohondan](https://count.getloli.com/@:xiaohondan)
+
+[![英文](https://img.shields.io/badge/Language-English-blue?style=flat-square)](./README.md)
 
 </div>
 
@@ -51,7 +53,7 @@
 
 嘿，我是 **小红蛋**
 
-**Neko 团队** 所有者 · 全栈开发者，正在用 **WorkBuddy / CodeBuddy / OpenClaw / Cherry Studio / CodeBuddy / Codex / DeepSeek / ChatGPT** *（AI 辅助）* 构建有趣的东西。
+**Neko 团队** 所有者 · 全栈开发者，正在用 **WorkBuddy / CodeBuddy / OpenClaw / Cherry Studio / CodeBuddy / Codex / DeepSeek / ChatGPT / QClaw / GitHub Copilot** *（AI 辅助）* 构建有趣的东西。
 
 ---
 
@@ -128,11 +130,27 @@
 | **YouTube** | [xiaohondan](https://www.youtube.com/@xiaohondan) |
 | **CSDN** | [小红蛋](https://blog.csdn.net/xiaohondan) |
 
+<div align="center">
+  <a href="https://space.bilibili.com/3546605644941596">
+    <img src="https://img.shields.io/badge/-B站订阅%20@小红蛋-lightgray?style=for-the-badge&logo=bilibili&logoColor=white" alt="B站订阅" />
+  </a>
+  <a href="https://www.youtube.com/@xiaohondan">
+    <img src="https://img.shields.io/badge/-YouTube订阅%20@xiaohondan-lightgray?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube订阅" />
+  </a>
+  <a href="https://twitch.tv/xiaohondan">
+    <img src="https://img.shields.io/badge/-Twitch订阅%20@xiaohondan-lightgray?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch订阅" />
+  </a>
+</div>
+
 这些都是我的联系方式啦，如果你们有问题，可以通过这些联系我啦喵~
 
 当然啦，你也可以来看看我的GitHub团队喵，咱不会拒绝的呢，咱是`xiaohondan`哦 [传送门](https://github.com/NekoAiDev)
 
 ---
+
+<p align="center">
+  <img src="https://count.getloli.com/@:xiaohondan" alt=":xiaohondan" />
+</p>
 
 <div align="center">
   <sub>© 2026 - NekoAi · Designed with ❤️ by xiaohondan</sub>
