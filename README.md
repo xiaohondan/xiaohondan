@@ -19,13 +19,15 @@
 [![Personal Website](https://img.shields.io/badge/Neko-Personal_Website-8A2BE2?style=flat-square)](https://nekoaidev.top)
 [![Team Website](https://img.shields.io/badge/Neko-Team_Website-FF8C00?style=flat-square)](https://studio.nekoaidev.top)
 [![APP Website](https://img.shields.io/badge/Neko-APP_Website-red?style=flat-square)](https://app.nekoaidev.top)
-[![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?logo=bilibili&logoColor=white&style=flat-square)](https://space.bilibili.com/3546605644941596)
 
+[![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?logo=bilibili&logoColor=white&style=flat-square)](https://space.bilibili.com/3546605644941596)
 [![CSDN](https://img.shields.io/badge/CSDN-xiaohondan-red?style=flat-square&logo=csdn&logoColor=white)](https://blog.csdn.net/xiaohondan)
 [![ifadian](https://img.shields.io/badge/ifadian-Support-FF69B4?style=flat-square)](https://ifdian.net/a/nekoai)
 [![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white)](https://www.youtube.com/@xiaohondan)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?&logo=twitch&logoColor=white)](https://twitch.tv/xiaohondan)
-![Twitch Status](https://img.shields.io/twitch/status/xiaohondan?&logo=twitch&logoColor=white)
+<a href="https://twitch.tv/xiaohondan">
+  <img src="https://img.shields.io/twitch/status/xiaohondan?style=flat-square&logo=twitch&logoColor=white" alt="Twitch Status" />
+</a>
 
 [![Ask DeepWiki - ](https://deepwiki.com/badge.svg)](https://deepwiki.com/NekoAiDev/neko-cli)
 [![Ask DeepWiki - ](https://deepwiki.com/badge.svg)](https://deepwiki.com/NekoAiDev/astrbot_plugin_qq_toolbox)
@@ -110,6 +112,18 @@ Hey, I'm **xiaohondan**
     />
   </a>
 </div>
+
+### Douyin Stats
+
+[![Douyin](https://img.shields.io/badge/Douyin-000000?style=flat-square&logo=tiktok&logoColor=white)]([你的抖音个人主页链接](https://www.douyin.com/user/MS4wLjABAAAA5VFGtYPXS3uofyOPn237zdFLz_B1yQ0AnfAj8kLgvuI))
+
+### Twitch Stats
+
+![Twitch Status](https://img.shields.io/twitch/status/你的Twitch用户名?style=for-the-badge&logo=twitch&logoColor=white)
+
+<a href="https://twitch.tv/xiaohondan">
+  <img src="https://img.shields.io/twitch/status/xiaohondan?style=flat-square&logo=twitch&logoColor=white" alt="Twitch Status" />
+</a>
 
 ---
 
