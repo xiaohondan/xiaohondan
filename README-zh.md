@@ -20,6 +20,7 @@
 [![团队网站](https://img.shields.io/badge/Neko-团队网站-FF8C00?style=flat-square)](https://studio.nekoaidev.top)
 [![APP网站](https://img.shields.io/badge/Neko-APP网站-red?style=flat-square)](https://app.nekoaidev.top)
 [![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?logo=bilibili&logoColor=white&style=flat-square)](https://space.bilibili.com/3546605644941596)
+[![抖音](https://img.shields.io/badge/抖音-@小红蛋-000000?style=flat-square&logo=tiktok&logoColor=white)](https://www.douyin.com/user/MS4wLjABAAAA5VFGtYPXS3uofyOPn237zdFLz_B1yQ0AnfAj8kLgvuI)
 [![CSDN](https://img.shields.io/badge/CSDN-xiaohondan-red?style=flat-square&logo=csdn&logoColor=white)](https://blog.csdn.net/xiaohondan)
 [![爱发电](https://img.shields.io/badge/爱发电-Support-FF69B4?style=flat-square)](https://ifdian.net/a/sxxyrry_ttxr)
 [![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white)](https://www.youtube.com/@xiaohondan)
@@ -111,6 +112,24 @@
     />
   </a>
 </div>
+
+### Douyin Stats
+
+[![抖音](https://img.shields.io/badge/抖音-@小红蛋-000000?style=flat-square&logo=tiktok&logoColor=white)](https://www.douyin.com/user/MS4wLjABAAAA5VFGtYPXS3uofyOPn237zdFLz_B1yQ0AnfAj8kLgvuI)
+
+[![Douyin status](https://akousa.net/api/downdetector/badge/douyin)](https://akousa.net/downdetector/douyin)
+
+
+### Twitch Stats
+
+![Twitch Status](https://img.shields.io/twitch/status/你的Twitch用户名?style=for-the-badge&logo=twitch&logoColor=white)
+
+<a href="https://twitch.tv/xiaohondan">
+  <img src="https://img.shields.io/twitch/status/xiaohondan?style=flat-square&logo=twitch&logoColor=white" alt="Twitch Status" />
+</a>
+
+
+
 
 ---
 
