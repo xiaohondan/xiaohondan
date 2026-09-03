@@ -117,6 +117,8 @@ Hey, I'm **xiaohondan**
 
 [![Douyin](https://img.shields.io/badge/Douyin-000000?style=flat-square&logo=tiktok&logoColor=white)]([你的抖音个人主页链接](https://www.douyin.com/user/MS4wLjABAAAA5VFGtYPXS3uofyOPn237zdFLz_B1yQ0AnfAj8kLgvuI))
 
+[![Douyin status](https://akousa.net/api/downdetector/badge/douyin)](https://akousa.net/downdetector/douyin)
+
 ### Twitch Stats
 
 ![Twitch Status](https://img.shields.io/twitch/status/你的Twitch用户名?style=for-the-badge&logo=twitch&logoColor=white)
