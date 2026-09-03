@@ -21,6 +21,7 @@
 [![APP Website](https://img.shields.io/badge/Neko-APP_Website-red?style=flat-square)](https://app.nekoaidev.top)
 
 [![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?logo=bilibili&logoColor=white&style=flat-square)](https://space.bilibili.com/3546605644941596)
+[![Douyin](https://img.shields.io/badge/Douyin-@xiaohondan-000000?style=flat-square&logo=tiktok&logoColor=white)](https://www.douyin.com/user/MS4wLjABAAAA5VFGtYPXS3uofyOPn237zdFLz_B1yQ0AnfAj8kLgvuI)
 [![CSDN](https://img.shields.io/badge/CSDN-xiaohondan-red?style=flat-square&logo=csdn&logoColor=white)](https://blog.csdn.net/xiaohondan)
 [![ifadian](https://img.shields.io/badge/ifadian-Support-FF69B4?style=flat-square)](https://ifdian.net/a/nekoai)
 [![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white)](https://www.youtube.com/@xiaohondan)
@@ -115,7 +116,7 @@ Hey, I'm **xiaohondan**
 
 ### Douyin Stats
 
-[![Douyin](https://img.shields.io/badge/Douyin-000000?style=flat-square&logo=tiktok&logoColor=white)]([你的抖音个人主页链接](https://www.douyin.com/user/MS4wLjABAAAA5VFGtYPXS3uofyOPn237zdFLz_B1yQ0AnfAj8kLgvuI))
+[![Douyin](https://img.shields.io/badge/Douyin-@xiaohondan-000000?style=flat-square&logo=tiktok&logoColor=white)](https://www.douyin.com/user/MS4wLjABAAAA5VFGtYPXS3uofyOPn237zdFLz_B1yQ0AnfAj8kLgvuI)
 
 [![Douyin status](https://akousa.net/api/downdetector/badge/douyin)](https://akousa.net/downdetector/douyin)
 
