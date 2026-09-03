@@ -102,7 +102,7 @@
   <img width="50%" src="https://github-readme-stats.shion.dev/api?username=xiaohondan&show_icons=true&icon_color=E91E63&title_color=FB7299&text_color=ADBAC7&border_radius=15&theme=transparent&border_color=FFC0CB" alt="GitHub Stats" />
 </a>
 
-### Bilibili 状态
+### 哔哩哔哩 状态
 
 <div align="left" style="background-color: black; padding: 20px; border: 2px solid white; border-radius: 10px; display: inline-block;">
   <a href="https://space.bilibili.com/3546605644941596" target="_blank">
@@ -113,23 +113,21 @@
   </a>
 </div>
 
-### Douyin Stats
+
+### 抖音 状态
 
 [![抖音](https://img.shields.io/badge/抖音-@小红蛋-000000?style=flat-square&logo=tiktok&logoColor=white)](https://www.douyin.com/user/MS4wLjABAAAA5VFGtYPXS3uofyOPn237zdFLz_B1yQ0AnfAj8kLgvuI)
 
 [![Douyin status](https://akousa.net/api/downdetector/badge/douyin)](https://akousa.net/downdetector/douyin)
 
 
-### Twitch Stats
+### Twitch 状态
 
 ![Twitch Status](https://img.shields.io/twitch/status/你的Twitch用户名?style=for-the-badge&logo=twitch&logoColor=white)
 
 <a href="https://twitch.tv/xiaohondan">
   <img src="https://img.shields.io/twitch/status/xiaohondan?style=flat-square&logo=twitch&logoColor=white" alt="Twitch Status" />
 </a>
-
-
-
 
 ---
 
